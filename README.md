@@ -1,4 +1,4 @@
-# Hello, I'm Alireza Agha Mohammadi Nazari! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30px">
+# Hi There, I'm Alireza Nazari <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30px">
 
 #### I'm a passionate software developer experienced in various programming languages and frameworks.
 
@@ -41,5 +41,3 @@
 </p>
 
 ---
-
-### <p align="center"> 🎨 Thank You for Visiting My Profile! 🌈</p>
