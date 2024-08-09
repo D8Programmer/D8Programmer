@@ -22,7 +22,7 @@
 
 <!-- - **<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/6bd69ddcf3118726abbcf0aa0e0c5b6e712886b4/Assets/Linkedin.svg" height="20px" width="20px"> LinkedIn:** [None](https://www.linkedin.com/in/) -->
 
-- **<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/6bd69ddcf3118726abbcf0aa0e0c5b6e712886b4/Assets/Twitter.svg" height="20px" width="20px"> Twitter:** [d8programmer@gmail.com](https://twitter.com/@D8rk__)
+- **<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/6bd69ddcf3118726abbcf0aa0e0c5b6e712886b4/Assets/Twitter.svg" height="20px" width="20px"> Twitter:** [D8rk__](https://twitter.com/@D8rk__)
 
 ---
 
